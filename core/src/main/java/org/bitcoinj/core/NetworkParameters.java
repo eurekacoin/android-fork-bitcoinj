@@ -66,9 +66,9 @@ public abstract class NetworkParameters {
     public static final String ID_QTUM_TESTNET = "org.bitcoinj.qtum_testnet";
 
     /** The string returned by getId() for the Runebase mainnet. */
-    public static final String ID_RUNEBASE_MAINNET = "org.bitcoinj.eurekacoin_mainnet";
+    public static final String ID_EUREKACOIN_MAINNET = "org.bitcoinj.eurekacoin_mainnet";
     /** The string returned by getId() for the Runebase mainnet. */
-    public static final String ID_RUNEBASE_TESTNET = "org.bitcoinj.eurekacoin_testnet";
+    public static final String ID_EUREKACOIN_TESTNET = "org.bitcoinj.eurekacoin_testnet";
 	
 	/** The string returned by getId() for the WhiteCoin netparams. */
     public static final String ID_WHITECOIN_NET = "org.bitcoinj.whitecoin_net";
